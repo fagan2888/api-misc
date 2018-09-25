@@ -1,7 +1,7 @@
 # api-misc
 
-### total_supply
-SMOKE total_supply
+### chain_info
+SMOKE chain_info
 
-`https://api.smoke.io/misc/total_supply`
+`https://api.smoke.io/misc/chain_info`
 
